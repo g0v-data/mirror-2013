@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UvData>
+  <Data>
+    <SiteName>阿里山</SiteName>
+    <Uvi>1</Uvi>
+    <Unit>環境保護署</Unit>
+    <County>嘉義縣</County>
+    <SiteCoordinate>
+      <WGS84>
+        <WGS84_LON>120,48,05.02</WGS84_LON>
+        <WGS84_LAT>23,30,30.82</WGS84_LAT>
+      </WGS84>
+    </SiteCoordinate>
+    <DataCreationDate>2013-08-26 08:00</DataCreationDate>
+  </Data>
+</UvData>
